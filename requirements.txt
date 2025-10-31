@@ -1,1 +1,8 @@
 streamlit
+numpy
+twine
+build
+requests
+pandas
+matplotlib
+beautifulsoup4
